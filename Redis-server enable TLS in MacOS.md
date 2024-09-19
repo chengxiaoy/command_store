@@ -29,6 +29,6 @@ tls-cipher-suite DEFAULT:!MEDIUM
 6. 将自签名证书加入到python环境中
 >  python -c "import ssl; print(ssl.get_default_verify_paths())"
 
-如果 环境变量 SSL_CERT_FILE 不存在
-> export SSL_CERT_FILE=/path/to/redis.crt
+找到 openssl_capath 路径
+> cp /path/to/redis.crt openssl_capath
 
