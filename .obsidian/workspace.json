@@ -128,13 +128,22 @@
                 "file": "Redis-server enable TLS in MacOS.md"
               }
             }
+          },
+          {
+            "id": "659e87d8c9efe780",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd8baa443527a33",
+  "active": "9ae7a43d3fbf0973",
   "lastOpenFiles": [
     "README.md",
     "Redis-server enable TLS in MacOS.md"
