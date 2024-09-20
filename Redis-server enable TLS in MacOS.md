@@ -32,3 +32,5 @@ tls-cipher-suite DEFAULT:!MEDIUM
 找到 openssl_capath 路径
 > cp /path/to/redis.crt openssl_capath
 
+7. redis-cli 连接
+> redis-cli -h localhost -p 6379 --tls --insecure
