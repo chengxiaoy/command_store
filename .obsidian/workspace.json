@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7923b6da98921c25",
+        "id": "88701dfd0a493701",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae7a43d3fbf0973",
+            "id": "dfb69fedbf3d85e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis-server enable TLS in MacOS.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis-server enable TLS in MacOS.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis-server enable TLS in MacOS.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis-server enable TLS in MacOS.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -155,9 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ae7a43d3fbf0973",
+  "active": "dfb69fedbf3d85e5",
   "lastOpenFiles": [
-    "README.md",
-    "Redis-server enable TLS in MacOS.md"
+    "Untitled.md",
+    "Redis-server enable TLS in MacOS.md",
+    "README.md"
   ]
 }
